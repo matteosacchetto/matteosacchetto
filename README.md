@@ -6,6 +6,7 @@
       width="256"
       align="right"
       src="https://raw.githubusercontent.com/matteosacchetto/matteosacchetto/devcard/devcard.svg"
+      alt="Matteo Sacchetto's Dev Card"
     />
   </a>
 </div>
