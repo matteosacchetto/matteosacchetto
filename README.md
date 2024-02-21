@@ -7,7 +7,7 @@
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/matteosacchetto/matteosacchetto/devcard/devcard.svg"
+      src="https://raw.githubusercontent.com/matteosacchetto/matteosacchetto/devcard/devcard.png"
       alt="Matteo Sacchetto's Dev Card"
     />
   </a>
